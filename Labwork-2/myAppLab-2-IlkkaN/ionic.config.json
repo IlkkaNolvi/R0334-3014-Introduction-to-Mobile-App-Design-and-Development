@@ -1,0 +1,7 @@
+{
+  "name": "myAppLab-2-IlkkaN",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
